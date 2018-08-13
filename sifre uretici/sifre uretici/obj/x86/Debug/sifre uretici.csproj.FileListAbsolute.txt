@@ -1,0 +1,18 @@
+C:\Users\programcı\Desktop\sifre uretici\sifre uretici\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\programcı\Desktop\sifre uretici\sifre uretici\obj\x86\Debug\sifre_uretici.Form1.resources
+C:\Users\programcı\Desktop\sifre uretici\sifre uretici\obj\x86\Debug\sifre_uretici.Properties.Resources.resources
+C:\Users\programcı\Desktop\sifre uretici\sifre uretici\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\programcı\Desktop\sifre uretici\sifre uretici\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\programcı\Desktop\sifre uretici\sifre uretici\bin\Debug\sifre uretici.exe
+C:\Users\programcı\Desktop\sifre uretici\sifre uretici\bin\Debug\sifre uretici.pdb
+C:\Users\programcı\Desktop\sifre uretici\sifre uretici\obj\x86\Debug\sifre uretici.exe
+C:\Users\programcı\Desktop\sifre uretici\sifre uretici\obj\x86\Debug\sifre uretici.pdb
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Projelerim\sifre uretici\sifre uretici\obj\x86\Debug\sifre uretici.exe
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Projelerim\sifre uretici\sifre uretici\obj\x86\Debug\sifre uretici.pdb
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Projelerim\sifre uretici\sifre uretici\bin\Debug\sifre uretici.exe
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Projelerim\sifre uretici\sifre uretici\bin\Debug\sifre uretici.pdb
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Projelerim\sifre uretici\sifre uretici\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Projelerim\sifre uretici\sifre uretici\obj\x86\Debug\sifre_uretici.Form1.resources
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Projelerim\sifre uretici\sifre uretici\obj\x86\Debug\sifre_uretici.Properties.Resources.resources
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Projelerim\sifre uretici\sifre uretici\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Projelerim\sifre uretici\sifre uretici\obj\x86\Debug\GenerateResource.write.1.tlog
