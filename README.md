@@ -1,4 +1,4 @@
-## Belirtilen parametrelere göre şifre üreten C# uygulaması
+## Belirtilen parametrelere göre parola üreten C# uygulaması
 
 
 
